@@ -275,6 +275,6 @@ Once the virtual environment is activated and dependencies are installed:
 
 ## 14. Author
 
-- **Author**: *[Your Name / Portfolio Handle]*
+- **Author**: *[Prakash K  / Portfolio Handle]*
 - **Project**: Part of the *Machine Learning From Scratch* Portfolio Series
-- **GitHub**: *[https://github.com/your-username]*
+- **GitHub**: *[https://github.com/prakashk006]*
